@@ -1,4 +1,4 @@
-3.	Paste:
+
 import os
 import pickle
 import sqlite3
